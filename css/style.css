@@ -1,0 +1,25 @@
+.row-topnav{
+  background-color:white;
+  color: red;
+
+}
+.searchbox{
+  margin: 15px;
+  padding: 10px;
+}
+.navbar{
+  background-color:#F0E68C;
+
+}
+.box{
+  margin-top:-1px;
+  background-color:#6495ED;
+}
+body{
+  margin:0px !important;
+
+}
+.input-group{
+  width:50%;
+  float: right;
+}

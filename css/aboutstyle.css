@@ -1,0 +1,17 @@
+.row-topnav{
+  background-color:	#00FFFF;
+  color: red;
+  background-image:url();
+}
+h1{
+  margin: 15.5px;
+}
+.searchbox{
+  margin: 15.5px;
+  width: 25%;
+  float: right!important;
+}
+.navbar-default{
+  background-color: #8FBC8F;
+  margin:-1px;
+}
